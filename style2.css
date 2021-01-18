@@ -1,0 +1,28 @@
+body {
+    background: #F2BC94;
+    color: 695801;
+}
+canvas {
+  background: #F4AF1B;
+  padding: 0;
+  margin: auto;
+  margin-bottom: 1rem;
+  display: block;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+.button {
+  background-color: #00154F;
+  color:#F4AF1B;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
