@@ -1,5 +1,4 @@
 # Pong
 
-This is a simple Pong game made with javascript.
-My first javascript mini-project.
-Still under work
+This is a table tennis-themed arcade video game for two players.
+It use HTML5 Canvas element and JavaScript to build the app which runs locally on the desktop.
